@@ -1,0 +1,22 @@
+.search {
+    display: flex;
+    margin: 15px 0;
+}
+
+.form-control {
+    display: flex;
+    min-width: 200px;
+    padding-top: 10px;
+}
+
+.results {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+.num-results {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
